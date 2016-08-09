@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".md" type="Markdown" />
+      <mapping ext="phpt" type="PHP" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="latte" type="Smarty" />
+      <mapping ext="bak" type="XML" />
+    </extensionMap>
+  </component>
+</application>
