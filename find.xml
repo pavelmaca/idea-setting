@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[wot-strongholds] - ...\app'" />
-    <option name="defaultScopeName" value="Directory '[wot-strongholds] - ...\app'" />
-    <option name="SEARCH_SCOPE" value="Directory '[wot-strongholds] - ...\app'" />
+    <option name="customScope" value="File '[wot-strongholds] - ...\bin\git-post-receive.sh'" />
+    <option name="defaultScopeName" value="File '[wot-strongholds] - ...\bin\git-post-receive.sh'" />
+    <option name="SEARCH_SCOPE" value="File '[wot-strongholds] - ...\bin\git-post-receive.sh'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
