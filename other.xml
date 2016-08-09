@@ -1,8 +1,0 @@
-<application>
-  <component name="CPPToolchains">
-    <option name="cygwinHomePath" value="C:\cygwin64" />
-    <option name="detectedVersion" value="4" />
-    <option name="minGWHomePath" value="C:\MinGW" />
-    <option name="winEnvironment" value="MINGW" />
-  </component>
-</application>
