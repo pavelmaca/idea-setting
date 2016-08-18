@@ -3109,6 +3109,13 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="426276" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_BOLD">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -3765,6 +3772,9 @@
         <option name="EFFECT_COLOR" value="277c8" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.INLINE_HTML">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_ABBREVIATED_TEXT">
       <value>
@@ -13225,6 +13235,11 @@
       <value>
         <option name="BACKGROUND" value="dff6e5" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.VERBATIM">
+      <value>
+        <option name="BACKGROUND" value="4a585e" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
