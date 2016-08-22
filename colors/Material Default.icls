@@ -1591,7 +1591,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="cfd6ff" />
+        <option name="BACKGROUND" value="eee6ff" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -4919,7 +4919,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="c5ece2" />
+        <option name="BACKGROUND" value="e2ffe0" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ISSUE_MARKER">
@@ -6003,7 +6003,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="c3ecf9" />
+        <option name="BACKGROUND" value="e0fff9" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_ISSUE_MARKER">
@@ -7087,7 +7087,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="dde6e7" />
+        <option name="BACKGROUND" value="fff8e6" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ISSUE_MARKER">
@@ -8148,11 +8148,6 @@
       <value>
         <option name="FOREGROUND" value="6a01d4" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_INLINE_HTML">
-      <value>
-        <option name="BACKGROUND" value="dbebff" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_ITALIC">
@@ -9246,7 +9241,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="bddfd7" />
+        <option name="BACKGROUND" value="d8f0d5" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_ISSUE_MARKER">
@@ -10330,7 +10325,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="bce3ef" />
+        <option name="BACKGROUND" value="d7f5ee" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ISSUE_MARKER">
@@ -11414,7 +11409,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="d5dee1" />
+        <option name="BACKGROUND" value="f5efdf" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ISSUE_MARKER">
@@ -12498,7 +12493,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_INLINE_HTML">
       <value>
-        <option name="BACKGROUND" value="d5e3f6" />
+        <option name="BACKGROUND" value="f5f5f5" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ISSUE_MARKER">
