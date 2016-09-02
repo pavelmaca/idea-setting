@@ -1,8 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping ext="pde" type="ObjectiveC" />
-      <mapping ext="ino" type="ObjectiveC" />
+      <mapping pattern=".md" type="Markdown" />
+      <removed_mapping ext="phpt" type="Nette Tester test" />
+      <mapping ext="phpt" type="PHP" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="XML" />
     </extensionMap>
   </component>
 </application>

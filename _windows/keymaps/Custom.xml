@@ -1,7 +1,14 @@
 <keymap version="1" name="Custom" parent="$default">
+  <action id="GotoCustomRegion" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="Inline" />
+  <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift f6" />
