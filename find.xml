@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[wot-strongholds] - ...\bin\git-post-receive.sh'" />
-    <option name="defaultScopeName" value="File '[wot-strongholds] - ...\bin\git-post-receive.sh'" />
-    <option name="SEARCH_SCOPE" value="File '[wot-strongholds] - ...\bin\git-post-receive.sh'" />
+    <option name="customScope" value="File '[java.chat] - ...\README.md'" />
+    <option name="defaultScopeName" value="File '[java.chat] - ...\README.md'" />
+    <option name="SEARCH_SCOPE" value="File '[java.chat] - ...\README.md'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
