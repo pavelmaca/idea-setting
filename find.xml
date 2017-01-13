@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[java.chat] - ...\README.md'" />
-    <option name="defaultScopeName" value="File '[java.chat] - ...\README.md'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[java.chat] - ...\README.md'" />
+    <option name="customScope" value="Directory '[java.chat] - ...\src\pavelmaca\chat'" />
+    <option name="defaultScopeName" value="Directory '[java.chat] - ...\src\pavelmaca\chat'" />
+    <option name="SEARCH_SCOPE" value="Directory '[java.chat] - ...\src\pavelmaca\chat'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
