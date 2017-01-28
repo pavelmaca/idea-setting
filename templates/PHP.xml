@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="du" value="dump($END$);" description="Tracy dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bdu" value="Tracy\Debugger::barDump($END$);" description="Tracy barDump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
