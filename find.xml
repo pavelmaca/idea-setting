@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[java.chat] - ...\src\pavelmaca\chat'" />
     <option name="defaultScopeName" value="Directory '[java.chat] - ...\src\pavelmaca\chat'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[java.chat] - ...\src\pavelmaca\chat'" />
     <recentFileMasks>
       <mask>*.properties</mask>
