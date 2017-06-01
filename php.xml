@@ -342,7 +342,7 @@
             <configuration_option name="max_file_uploads" value="20" />
             <configuration_option name="max_input_nesting_level" value="64" />
             <configuration_option name="max_input_time" value="-1" />
-            <configuration_option name="max_input_vars" value="1000" />
+            <configuration_option name="max_input_vars" value="10000" />
             <configuration_option name="mbstring.detect_order" value="" />
             <configuration_option name="mbstring.encoding_translation" value="0" />
             <configuration_option name="mbstring.func_overload" value="0" />
