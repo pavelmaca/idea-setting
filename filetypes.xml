@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="Docker file" />
       <mapping pattern=".md" type="Markdown" />
-      <removed_mapping ext="phpt" type="Nette Tester test" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".crontab" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="mail" type="PLAIN_TEXT" />
+      <mapping ext="templete" type="PLAIN_TEXT" />
       <mapping ext="bak" type="XML" />
     </extensionMap>
   </component>
