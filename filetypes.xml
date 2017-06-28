@@ -5,6 +5,7 @@
       <removed_mapping pattern=".dockerignore" type="Docker file" />
       <mapping pattern=".dockerignore" type="Dockerfile" />
       <mapping ext="dockerignore" type="Dockerfile" />
+      <mapping ext="cnf" type="Ini" />
       <mapping pattern=".md" type="Markdown" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern=".crontab" type="PLAIN_TEXT" />
