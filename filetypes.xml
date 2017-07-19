@@ -1,25 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="dockerignore" type="Docker file" />
-      <removed_mapping pattern=".dockerignore" type="Docker file" />
-      <mapping pattern=".dockerignore" type="Dockerfile" />
-      <mapping ext="dockerignore" type="Dockerfile" />
-      <mapping ext="cnf" type="Ini" />
       <mapping pattern=".md" type="Markdown" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping pattern=".crontab" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
-      <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="mail" type="PLAIN_TEXT" />
       <mapping ext="templete" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="00000001" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="bak" type="XML" />
+      <mapping ext="cnf" type="Ini" />
     </extensionMap>
   </component>
 </application>
