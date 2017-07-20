@@ -13,7 +13,7 @@
     <interpreters>
       <interpreter home="C:\Localhost\php-5.3.28\php.exe" id="09c37cfa-b26c-4435-b225-27e07172ca88" name="PHP 5.3" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\Server\php-5.6.8-Win32-VC11-x86\php.exe" id="5c50ff5c-9a66-48ec-add5-8963428c5da4" name="PHP 5.6 - NTB" debugger_id="php.debugger.XDebug" />
-      <interpreter home="D:\Server\php-7.1.0-Win32-VC14-x86\php.exe" id="b39739fd-7b64-4b43-bb9d-e18add985a9c" name="PHP 7.1 - NTB" debugger_id="php.debugger.XDebug" debugger_extension="D:\Server\php-7.1.0-Win32-VC14-x86\ext\php_xdebug-2.4.1-7.0-vc14.dll" />
+      <interpreter home="D:\Server\php-7.1.0-Win32-VC14-x86\php.exe" id="b39739fd-7b64-4b43-bb9d-e18add985a9c" name="PHP 7.1 - NTB" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\Localhost\php-5.6.25-Win32-VC11-x86\php.exe" id="8fe0cd2b-dd5a-4c70-b4ea-c890c502fdec" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\Localhost\php-7.0.9-Win32-VC14-x86\php.exe" id="456e30b1-9185-4dc4-8573-c327b71fe7cd" name="PHP 7 -PC" debugger_id="php.debugger.XDebug" />
     </interpreters>
@@ -265,7 +265,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1 - NTB">
-        <phpinfo binary_type="PHP" php_cgi="D:\Server\php-7.1.0-Win32-VC14-x86\php-cgi.exe" php_cli="D:\Server\php-7.1.0-Win32-VC14-x86\php.exe" path_separator=";" version="7.1.0" warning="Failed loading D:\Server\php-7.1.0-Win32-VC14-x86\ext\php_xdebug-2.4.1-7.0-vc14.dll&#10;">
+        <phpinfo binary_type="PHP" php_cgi="D:\Server\php-7.1.0-Win32-VC14-x86\php-cgi.exe" php_cli="D:\Server\php-7.1.0-Win32-VC14-x86\php.exe" path_separator=";" version="7.1.0">
           <additional_php_ini />
           <configuration_file>D:\Server\php-7.1.0-Win32-VC14-x86\php.ini</configuration_file>
           <configuration_options>
@@ -455,6 +455,66 @@
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
             <configuration_option name="windows.show_crt_warning" value="0" />
+            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.collect_assignments" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="1" />
+            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_return" value="0" />
+            <configuration_option name="xdebug.collect_vars" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.dump.COOKIE" value="" />
+            <configuration_option name="xdebug.dump.ENV" value="" />
+            <configuration_option name="xdebug.dump.FILES" value="" />
+            <configuration_option name="xdebug.dump.GET" value="" />
+            <configuration_option name="xdebug.dump.POST" value="" />
+            <configuration_option name="xdebug.dump.REQUEST" value="" />
+            <configuration_option name="xdebug.dump.SERVER" value="" />
+            <configuration_option name="xdebug.dump.SESSION" value="" />
+            <configuration_option name="xdebug.dump_globals" value="1" />
+            <configuration_option name="xdebug.dump_once" value="1" />
+            <configuration_option name="xdebug.dump_undefined" value="0" />
+            <configuration_option name="xdebug.extended_info" value="1" />
+            <configuration_option name="xdebug.file_link_format" value="" />
+            <configuration_option name="xdebug.force_display_errors" value="0" />
+            <configuration_option name="xdebug.force_error_reporting" value="0" />
+            <configuration_option name="xdebug.halt_level" value="0" />
+            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.max_stack_frames" value="-1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
+            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.profiler_append" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
+            <configuration_option name="xdebug.remote_handler" value="dbgp" />
+            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_mode" value="req" />
+            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
+            <configuration_option name="xdebug.show_exception_trace" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_mem_delta" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.trace_format" value="0" />
+            <configuration_option name="xdebug.trace_options" value="0" />
+            <configuration_option name="xdebug.trace_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_data" value="512" />
+            <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="zend.assertions" value="1" />
@@ -466,7 +526,11 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -504,6 +568,7 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
