@@ -16,6 +16,7 @@
       <mapping ext="mail" type="PLAIN_TEXT" />
       <mapping ext="templete" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="00000001" type="PLAIN_TEXT" />
       <mapping ext="bak" type="XML" />
     </extensionMap>
