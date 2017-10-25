@@ -4,6 +4,7 @@
       <mapping ext="cnf" type="Ini" />
       <mapping pattern=".md" type="Markdown" />
       <mapping ext="phpt" type="PHP" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".env_dev" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".crontab" type="PLAIN_TEXT" />
